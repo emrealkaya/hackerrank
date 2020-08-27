@@ -21,6 +21,6 @@ my hackerrank solution
        <tr> 
          <td align = "center" > 1 </td>
          <td align = "center" > <a href = "https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem"> 
-         Welcome To Java </a> </td>
-         <td align = "center" > <a href = "https://github.com/emrealkaya/hackerrank/tree/master/src/JavaStdinAndStdout"> 
+         Java Stdin and Stdout Is </a> </td>
+         <td align = "center" > <a href = "https://github.com/emrealkaya/hackerrank/blob/master/src/JavaStdinAndStdout/Solution.java"> 
          Solution.java </a> </td>
