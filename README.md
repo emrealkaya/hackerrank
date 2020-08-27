@@ -24,3 +24,10 @@ my hackerrank solution
          Java Stdin and Stdout Is </a> </td>
          <td align = "center" > <a href = "https://github.com/emrealkaya/hackerrank/blob/master/src/JavaStdinAndStdout/Solution.java"> 
          Solution.java </a> </td>
+  <tbody> 
+       <tr> 
+         <td align = "center" > 1 </td>
+         <td align = "center" > <a href = "https://www.hackerrank.com/challenges/java-if-else/problem"> 
+         Java Stdin and Stdout Is </a> </td>
+         <td align = "center" > <a href = "https://github.com/emrealkaya/hackerrank/blob/master/src/JavaIfElse/Solution.java"> 
+         Solution.java </a> </td>
