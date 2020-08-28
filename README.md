@@ -21,7 +21,7 @@ my hackerrank solution
        <tr> 
          <td align = "center" > 1 </td>
          <td align = "center" > <a href = "https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem"> 
-         Java Stdin and Stdout Is </a> </td>
+         Java Stdin and Stdout I </a> </td>
          <td align = "center" > <a href = "https://github.com/emrealkaya/hackerrank/blob/master/src/JavaStdinAndStdout/Solution.java"> 
          Solution.java </a> </td>
   <tbody> 
@@ -30,4 +30,11 @@ my hackerrank solution
          <td align = "center" > <a href = "https://www.hackerrank.com/challenges/java-if-else/problem"> 
          Java If-Else </a> </td>
          <td align = "center" > <a href = "https://github.com/emrealkaya/hackerrank/blob/master/src/JavaIfElse/Solution.java"> 
+         Solution.java </a> </td>
+     <tbody> 
+       <tr> 
+         <td align = "center" > 2 </td>
+         <td align = "center" > <a href = "https://www.hackerrank.com/challenges/java-stdin-stdout/problem"> 
+         Java Stdin and Stdout II </a> </td>
+         <td align = "center" > <a href = "https://github.com/emrealkaya/hackerrank/blob/master/src/JavaStdinAndStdout2/Solution.java> 
          Solution.java </a> </td>
