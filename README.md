@@ -38,3 +38,22 @@ my hackerrank solution
          Java Stdin and Stdout II </a> </td>
          <td align = "center" > <a href = "https://github.com/emrealkaya/hackerrank/blob/master/src/JavaStdinAndStdout2/Solution.java"> 
          Solution.java </a> </td>
+         <tbody> 
+       <tr> 
+         <td align = "center" > 2 </td>
+         <td align = "center" > <a href = "https://www.hackerrank.com/challenges/java-output-formatting/problem"> 
+         Java Output Formatting </a> </td>
+         <td align = "center" > <a href = "https://github.com/emrealkaya/hackerrank/blob/master/src/JavaOutputFormatting/Solution.java"> 
+         Solution.java </a> </td>
+       <tr> 
+         <td align = "center" > 2 </td>
+         <td align = "center" > <a href = "https://www.hackerrank.com/challenges/java-loops-i/problem"> 
+         Java Loops I </a> </td>
+         <td align = "center" > <a href = "https://github.com/emrealkaya/hackerrank/blob/master/src/JavaLoops/Solution.java"> 
+         Solution.java </a> </td>
+           <tr> 
+         <td align = "center" > 2 </td>
+         <td align = "center" > <a href = "https://www.hackerrank.com/challenges/java-loops/problem"> 
+         Java Loops 2 </a> </td>
+         <td align = "center" > <a href = "https://github.com/emrealkaya/hackerrank/blob/master/src/JavaLoops2/Solution.java"> 
+         Solution.java </a> </td>
