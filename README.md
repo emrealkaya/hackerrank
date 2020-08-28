@@ -36,5 +36,5 @@ my hackerrank solution
          <td align = "center" > 2 </td>
          <td align = "center" > <a href = "https://www.hackerrank.com/challenges/java-stdin-stdout/problem"> 
          Java Stdin and Stdout II </a> </td>
-         <td align = "center" > <a href = "https://github.com/emrealkaya/hackerrank/blob/master/src/JavaStdinAndStdout2/Solution.java> 
+         <td align = "center" > <a href = "https://github.com/emrealkaya/hackerrank/blob/master/src/JavaStdinAndStdout2/Solution.java"> 
          Solution.java </a> </td>
