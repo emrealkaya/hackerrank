@@ -57,3 +57,21 @@ my hackerrank solution
          Java Loops 2 </a> </td>
          <td align = "center" > <a href = "https://github.com/emrealkaya/hackerrank/blob/master/src/JavaLoops2/Solution.java"> 
          Solution.java </a> </td>
+ <tr> 
+         <td align = "center" > 3 </td>
+         <td align = "center" > <a href = "https://www.hackerrank.com/challenges/java-datatypes/problem"> 
+          Java Datatypes </a> </td>
+         <td align = "center" > <a href = "https://github.com/emrealkaya/hackerrank/blob/master/src/JavaDataTypes/Solution.java"> 
+         Solution.java </a> </td>
+ <tr> 
+         <td align = "center" > 3 </td>
+         <td align = "center" > <a href = "https://www.hackerrank.com/challenges/java-end-of-file/problem"> 
+         Java End-of-file </a> </td>
+         <td align = "center" > <a href = "https://github.com/emrealkaya/hackerrank/blob/master/src/JavaEndOfFile/Solution.java"> 
+         Solution.java </a> </td>
+         <tr>
+         <td align = "center" > 3 </td>
+         <td align = "center" > <a href = "https://www.hackerrank.com/challenges/java-static-initializer-block/problem"> 
+         Java Static Initializer </a> </td>
+         <td align = "center" > <a href = "https://github.com/emrealkaya/hackerrank/blob/master/src/JavaStaticInitializerBlock/Solution.java"> 
+         Solution.java </a> </td>
